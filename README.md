@@ -206,10 +206,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 💼 Hire Me
-
-**I'm open to full-time roles, internships, and freelance projects** in NLP, AI/ML, and backend development.
-
 ### 👨‍💻 About Me
 
 I'm **Aniket**, an AI/ML developer with hands-on experience building intelligent document processing systems. I enjoy turning messy, unstructured data into clean, actionable insights using NLP and machine learning.
@@ -250,3 +246,4 @@ I'm **Aniket**, an AI/ML developer with hands-on experience building intelligent
 - [CUAD Dataset](https://www.atticusprojectai.org/cuad) for legal contract training data
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for scanned document support
 - [FastAPI](https://fastapi.tiangolo.com/) for the REST API framework
+
