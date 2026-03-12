@@ -16,6 +16,8 @@ The project is structured as a **week-by-week incremental build**, progressing f
 (images/<img width="449" height="407" alt="image" src="https://github.com/user-attachments/assets/de4614f7-5663-4411-92cf-683055a6b426" />
 )
 
+http://127.0.0.1:8000/docs#/
+
 ## ✨ Features
 
 - 📄 **Contract & Legal Document Parsing** — NDAs, loan agreements, service contracts, payment terms
@@ -250,6 +252,7 @@ I'm **Aniket**, an AI/ML developer with hands-on experience building intelligent
 - [CUAD Dataset](https://www.atticusprojectai.org/cuad) for legal contract training data
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for scanned document support
 - [FastAPI](https://fastapi.tiangolo.com/) for the REST API framework
+
 
 
 
