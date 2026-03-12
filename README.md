@@ -13,11 +13,9 @@ The project is structured as a **week-by-week incremental build**, progressing f
 ---
 ## 🚀 Live API Demo
 
-🔗 Swagger Docs  
-https://fintect-api.onrender.com/docs
 
 ### API Preview
-![API Demo](images/<img width="449" height="407" alt="image" src="https://github.com/user-attachments/assets/de4614f7-5663-4411-92cf-683055a6b426" />
+(images/<img width="449" height="407" alt="image" src="https://github.com/user-attachments/assets/de4614f7-5663-4411-92cf-683055a6b426" />
 )
 
 ## ✨ Features
@@ -254,6 +252,7 @@ I'm **Aniket**, an AI/ML developer with hands-on experience building intelligent
 - [CUAD Dataset](https://www.atticusprojectai.org/cuad) for legal contract training data
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for scanned document support
 - [FastAPI](https://fastapi.tiangolo.com/) for the REST API framework
+
 
 
 
