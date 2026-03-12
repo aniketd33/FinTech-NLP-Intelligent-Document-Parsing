@@ -11,8 +11,6 @@ Reading and interpreting legal and financial contracts manually is time-consumin
 The project is structured as a **week-by-week incremental build**, progressing from basic OCR and regex extraction all the way to a trained spaCy NER model and a production-ready REST API.
 
 ---
-## 🚀 Live API Demo
-
 
 ### API Preview
 (images/<img width="449" height="407" alt="image" src="https://github.com/user-attachments/assets/de4614f7-5663-4411-92cf-683055a6b426" />
@@ -252,6 +250,7 @@ I'm **Aniket**, an AI/ML developer with hands-on experience building intelligent
 - [CUAD Dataset](https://www.atticusprojectai.org/cuad) for legal contract training data
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for scanned document support
 - [FastAPI](https://fastapi.tiangolo.com/) for the REST API framework
+
 
 
 
