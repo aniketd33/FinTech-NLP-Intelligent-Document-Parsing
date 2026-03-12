@@ -12,7 +12,7 @@ The project is structured as a **week-by-week incremental build**, progressing f
 
 ---
 ## 🚀 Live API
-https://fintect-api.onrender.com
+https://fintect-api.onrender.com/docs
 
 
 ## ✨ Features
@@ -249,5 +249,6 @@ I'm **Aniket**, an AI/ML developer with hands-on experience building intelligent
 - [CUAD Dataset](https://www.atticusprojectai.org/cuad) for legal contract training data
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for scanned document support
 - [FastAPI](https://fastapi.tiangolo.com/) for the REST API framework
+
 
 
